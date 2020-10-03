@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a new generation of e-Commerce solution
 - 🌱 I’m currently learning a lot about JamStack and Gatsby
-
+- 🚀 I'm a big of fan of ReactJS, Redux and Tailwindcss
 
 <!--
 **raphaelmansuy/raphaelmansuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
