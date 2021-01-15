@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=raphaelmansuy&show_icons=true&count_private=true)
 
 - 🔭 I’m currently working on a new generation of e-Commerce solution
-- 🌱 I’m currently learning a lot about JamStack, Next, Gatsby and Redwoodjs
+- 🌱 I’m currently learning a lot about JamStack, NextJS, Gatsby and Redwoodjs
 - 🚀 I'm a big of fan of ReactJS, Redux, XState and Tailwindcss
 
 <!--
