@@ -5,7 +5,7 @@
 - 🌱 French Tech Board Member
 - 🚀 Runing a Startup Studio in Hong Kong
 
-[![Source Karma badge for @raphaelmansuy](https://sourcekarma-og.vercel.app/api/raphaelmansuy/github)](https://sourcekarma.vercel.app/raphaelmansuy)
+
 
 <!--
 **raphaelmansuy/raphaelmansuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
