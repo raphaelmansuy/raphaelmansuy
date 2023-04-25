@@ -4,7 +4,8 @@
 - 🔭 Passionate about DataEngineering / DataScience / AI
 - 🌱 French Tech Board Member
 - 🚀 Runing a Startup Studio in Hong Kong
-
+- 🐼 CTO of pandassur an Insurtech in France (https://www.pandassur.fr)
+- 🌊 Technical adviser of WaveX a Climate-tech Start-up in London 
 
 
 <!--
