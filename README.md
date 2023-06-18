@@ -1,4 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=raphaelmansuy&show_icons=true&count_private=true)
 
 - 👨‍💻 Developer since I was 14 years old
 - 🔭 Passionate about DataEngineering / DataScience / AI
