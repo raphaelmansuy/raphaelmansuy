@@ -4,8 +4,15 @@
 - 🌱 French Tech Board Member
 - 🚀 Runing a Startup Studio in Hong Kong [elitizon](https://www.elitizon.com)
 - 🐼 CTO of [pandassur](https://www.pandassur.fr) an Insurtech in France (https://www.pandassur.fr)
-- 🌊 Technical adviser of WaveX a Climate-tech Start-up in London 
+- 🌊 Technical adviser of WaveX a Climate-tech Start-up in London
+- 🥇 LinkedIn Top Voices for AI, Data Engineering and Data Architecture
 
+
+🔗 Book a consultation with Me:  https://topmate.io/raphael_mansuy
+
+🔗 LinkedIn Profile: https://www.linkedin.com/in/raphaelmansuy/
+
+🔗 Exponential AI 🧠,  Weekly NewsLetter: https://exponentialai.substack.com/
 
 <!--
 **raphaelmansuy/raphaelmansuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
