@@ -5,7 +5,7 @@
 - 🚀 Runing a Startup Studio in Hong Kong [elitizon](https://www.elitizon.com)
 - 🐼 CTO of [pandassur](https://www.pandassur.fr) an Insurtech in France (https://www.pandassur.fr)
 - 🌊 Technical adviser of WaveX a Climate-tech Start-up in London
-- 🥇 LinkedIn Top Voices for AI, Data Engineering and Data Architecture
+- 🥇 [LinkedIn Top Voices for AI, Data Engineering and Data Architecture](https://www.linkedin.com/in/raphaelmansuy/)
 
 -----
 
