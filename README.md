@@ -8,10 +8,10 @@
 - 🥇 LinkedIn Top Voices for AI, Data Engineering and Data Architecture
 
 
-🔗 Book a consultation with Me:  https://topmate.io/raphael_mansuy
-🔗 LinkedIn Profile: https://www.linkedin.com/in/raphaelmansuy/
-🔗 Exponential AI 🧠,  Weekly NewsLetter: https://exponentialai.substack.com/
-🔗 Medium articles abot AI and Data Engineering: https://medium.com/@raphael.mansuy
+- 🔗 Book a consultation with Me:  https://topmate.io/raphael_mansuy
+- 🔗 LinkedIn Profile: https://www.linkedin.com/in/raphaelmansuy/
+- 🔗 Exponential AI 🧠,  Weekly NewsLetter: https://exponentialai.substack.com/
+- 🔗 Medium articles abot AI and Data Engineering: https://medium.com/@raphael.mansuy
 
 <!--
 **raphaelmansuy/raphaelmansuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
