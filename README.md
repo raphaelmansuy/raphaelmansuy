@@ -7,6 +7,8 @@
 - 🌊 Technical adviser of WaveX a Climate-tech Start-up in London
 - 🥇 LinkedIn Top Voices for AI, Data Engineering and Data Architecture
 
+-----
+
 
 - 🔗 Book a consultation with Me:  https://topmate.io/raphael_mansuy
 - 🔗 LinkedIn Profile: https://www.linkedin.com/in/raphaelmansuy/
