@@ -5,6 +5,7 @@
 - 🚀 Runing a Startup Studio in Hong Kong [elitizon](https://www.elitizon.com)
 - 🤖 Founder and Board Member of QuantaLogic an AI Platform [quantalogic](https://www.quantalogic.app)
 - 🌊 Technical adviser of [WaveX](https://www.linkedin.com/company/wavexocean/) a Climate-tech Start-up in London
+- 📘 Author [The Definitive Guide to Data Integration](https://www.packtpub.com/en-us/product/the-definitive-guide-to-data-integration-9781837631919)
 - 🥇 [LinkedIn Top Voices for AI, Data Engineering, Data Architecture and Startups](https://www.linkedin.com/in/raphaelmansuy/)
 
 -----
